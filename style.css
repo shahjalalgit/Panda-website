@@ -1,0 +1,62 @@
+.container{
+    margin-bottom: 100px;
+}
+.bg-carosel{
+    background-color: #fceae8;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff136f;
+}
+.buynow-btn{
+    background-image: linear-gradient(to bottom, #ff136f 0%, #ff136f 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: linear-gradient(to left, orange 0%, orange 100%);
+}
+.cat2{
+    background-image: linear-gradient(to left, rgb(185, 68, 21) 0%, rgb(185, 68, 21) 100%);
+}
+.cat3{
+    background-image: linear-gradient(to left, blue 0%, blue 100%);
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.shoes{
+    border: none;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+#contactUS {
+    height: 300px;
+    border: none;
+    border-radius: 10px;
+}
+#contactUS h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
